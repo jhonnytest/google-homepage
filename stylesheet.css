@@ -22,7 +22,7 @@ input {
   margin-top: 20px;
   width: 520px;
 }
-.buttonclass {
+.button {
   margin-left: 250px;
   margin-top: 40px;
 }
@@ -35,7 +35,7 @@ button {
 	text-align: center;
 	font-size: 11px;
 }
-#footer {
+#navdown {
   position: absolute;
 	width: 100%;
   overflow: hidden;
@@ -47,11 +47,11 @@ button {
 	line-height: 40px;
   
 }
-.leftfoot {
+.lf {
   float: left;
   margin-left: 30px;
 }
-.rightfoot {
+.rf {
   float: right;
   margin-right: 30px;
 }
